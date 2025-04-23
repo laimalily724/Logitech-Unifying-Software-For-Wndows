@@ -1,4 +1,4 @@
-## Logitech Unifying Software For Wndows 2025
+## Logitech Unifying Software For Windows 2025
 
 Logitech Unifying Software, free download for Windows. Tool that enables users to manage and pair multiple wireless devices, such as mice, ...
 
